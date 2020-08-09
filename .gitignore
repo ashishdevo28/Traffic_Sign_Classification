@@ -1,0 +1,5 @@
+traffic-signs-data/test.p
+traffic-signs-data/train.p
+traffic-signs-data/valid.p
+traffic-signs-data/
+.DS_Store
